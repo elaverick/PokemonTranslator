@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Pokemon - Fire Red Version %28U%29 %28V1.1%29.gba" />
+    <None Remove="Pokemon Red %28UE%29 [S][!].sav" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Pokemon Red (UE) [S][!].sav">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+  </ItemGroup>
+
+</Project>

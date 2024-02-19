@@ -1,0 +1,16 @@
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\PokemonTranslator.exe
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\PokemonTranslator.deps.json
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\PokemonTranslator.runtimeconfig.json
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\PokemonTranslator.dll
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\PokemonTranslator.pdb
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.GeneratedMSBuildEditorConfig.editorconfig
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.AssemblyInfoInputs.cache
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.AssemblyInfo.cs
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.csproj.CoreCompileInputs.cache
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.sourcelink.json
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.dll
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\refint\PokemonTranslator.dll
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.pdb
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\PokemonTranslator.genruntimeconfig.cache
+F:\elave\repos\PokemonTranslator\PokemonTranslator\obj\Debug\net8.0\ref\PokemonTranslator.dll
+F:\elave\repos\PokemonTranslator\PokemonTranslator\bin\Debug\net8.0\Pokemon Red (UE) [S][!].sav
